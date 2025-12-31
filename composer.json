@@ -1,6 +1,6 @@
 {
     "name": "jsonpath-standard/jsonpath-compliance-test-suite",
-    "version": "9999.0.0",
+    "version": "2025.11.23",
     "description": "Security Research Proof of Concept - harmless",
     "scripts": {
         "post-install-cmd": [
