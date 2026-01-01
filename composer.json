@@ -1,6 +1,6 @@
 {
-    "name": "jsonpath-standard/jsonpath-compliance-test-suite",
-    "version": "2025.11.23",
+    "name": "commonmark/cmark",
+    "version": "9999.9.9",
     "description": "Security Research Proof of Concept - harmless",
     "scripts": {
         "post-install-cmd": [
